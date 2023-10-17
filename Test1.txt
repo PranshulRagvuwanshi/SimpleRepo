@@ -1,0 +1,4 @@
+Create a new file in git directory
+Add and commit the file.
+push the code to central repository.
+Made by Pranshul Raghuwanshi
